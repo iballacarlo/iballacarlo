@@ -4,7 +4,7 @@
 
 ---
 
-### 📱 Socials
+<h3 align="left">📱 Socials</h3>
 
 <div align="left">
   <a href="https://www.facebook.com/carlo.iballa.1/" target="_blank">
@@ -20,7 +20,7 @@
 
 ---
 
-### 🎧 Music
+<h3 align="left">🎧 Music</h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ytbawcp4ixduutzozulig2og3u" target="_blank">
