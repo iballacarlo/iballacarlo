@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Hi👋! My name is Carlo Iballa and I'm a Student from Cavite State University - Imus Campus</h5>
+<h4 align="left">Hi👋! My name is Carlo Iballa and I'm a Student from Cavite State University - Imus Campus</h4>
 
 ###
 
