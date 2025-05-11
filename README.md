@@ -22,7 +22,7 @@
 
 ### 🎧 Music
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31ytbawcp4ixduutzozulig2og3u">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ytbawcp4ixduutzozulig2og3u&count=5&unique=true" alt="Spotify recently played" />
   </a>
