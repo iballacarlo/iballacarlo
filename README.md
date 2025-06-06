@@ -59,9 +59,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iballacarlo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=iballacarlo&label=Profile%20views&color=0e75b6&style=flat" alt="iballacarlo" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
